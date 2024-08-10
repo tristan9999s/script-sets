@@ -1,0 +1,362 @@
+
+0.132
+0.102
+0.14
+0.12
+0.101
+131
+0.113129
+0.13323
+0.142
+0.145
+0.135 
+0.125
+0.182133333334
+0.13241123311111111
+0.1699112
+0.1773832 
+0.13419
+0.13238
+0.13481
+0.13746
+0.13189
+0.13913
+0.1212
+0.12871
+0.139766
+0.12
+0.135
+0.109
+0.109
+0.115
+0.12273
+7.447
+8.662
+0.449
+0.1356875 - prob the best 1 taps and 2 taps
+0.153231
+0.125625
+0.1365772
+0.12468 
+0.14377
+0.140
+0.11621
+0.1162
+0.1398
+0.121192
+0.1923441
+0.129331234
+0.125345
+0.162231
+0.142934
+0.143324
+0.1244512
+0.193444
+0.1368 - Close Range
+0.135735673 - Far Range
+OLD SETS / SETS HES SOLD B4
+0.1377 - Close Range
+0.13093 - Close Range
+0.12742 - Close Range
+0.135 - Close Range
+0.14377 - Close Range
+0.138 - Mid Range
+0.121192 - Mid Range
+0.1923441 - Mid Range
+0.129331234 - Mid Range
+0.125345 - Mid Range
+0.162231 - Mid Range
+0.142934 - Mid Range
+0.143324 - Mid Range
+0.1244512 - Mid Range
+0.193444 - Mid Range
+0.116195 - Far Range
+0.140 - Far Range
+0.11621 - Far Range
+0.1162 - Far Range
+0.1398 - Far Range
+0.1194 - Far Ran
+close sets: 0.1252115416
+mid sets: 0.1238915416
+mid/far: 0.1214915413
+far: 0.1179913418
+queedo:
+0.13880
+0.15300
+0.133353
+0.129145
+
+EU SETS-
+
+Endo:
+0.12
+-
+Earthbladi:
+0.0459
+0.0095
+0.0051
+0.0322
+-
+Flow:
+0.12
+0.1398
+0.128842
+0.12842
+INJECT THEM ALL TOGETHER
+40-50-60
+
+NA FPS GUI SETS-
+
+Rblxvengeance: 
+550
+-0.3
+0.0459 or 0.0945 (Blatant)
+
+1650 or 1031
+-0.3
+0.5 (Blatant)
+
+666
+-0.3 or 0.6
+0.0666 or 0.0459 (Blatant)
+
+575
+-0.3
+0.0459 or 0.09 or 0.0945 (Blatant)
+
+888
+-0.3
+0.0945 or 0.09 or 0.00945 (Streamable)
+
+988
+-0.3
+0.009 or 0.00945 (Streamable)
+
+333
+-0.3
+0.0945 (Streamable)
+
+620
+-0.3 or -0.4
+0.047623876
+(use with silent)
+
+333
+-0.4 or -0.5
+0.009
+(use with silent)
+
+2031
+-0.3 or -0.4
+0.047623876 or 0.0459
+(use with silent)
+
+988
+-0.3
+0.047623876
+(use with silent)
+
+550
+-0.3
+0.0459 or 0.0945 or 0.09
+(use with silent)
+
+800
+-0.3
+0.0945
+1031 or 1650
+-0.5 or -0.4
+0.047623876
+(Use with silent)
+-
+Lenaki:
+670 
+-0.2
+0.03
+-
+Lee:
+1502
+   -0.3 
+  0.0079
+==
+1795
+-0.5
+0.0098
+==
+1109
+-0.1
+0.0074
+==
+2200
+-0.3
+0.061
+-
+Egokillerdash:
+2205
+-0.3
+0.056 
+-
+Miabladi:
+333
+-0.5
+0.09-0.009
+-
+Kimbladi:
+620-640
+0
+0.5
+-
+Street:
+1650
+-0.5
+0.025
+-
+Swashbucklez:
+565 
+0
+640
+-
+Haunts:
+225
+-0.2
+speed on 0.041 (Close)
+=
+575
+-0.4
+speed on 0.037 (Mid)
+=
+1500
+-0.6
+speed on 0.0387735 (Far)
+=
+675
+-0.5
+speed on 0.339 (Main)
+-
+Zoro:
+954
+-0.7
+0.8345
+-
+
+EU FPS GUI SETS-
+
+Earthbladi:
+4000
+-0.3
+ 0.0986856
+=
+4000
+-3
+ 0.0459
+=
+4000
+-0.5
+0.0567
+=
+4000
+-0.5
+0.0567
+=
+988
+-0.3
+0.0986856
+=
+810
+0.2
+-0.0567
+-
+Tenaki:
+990
+-0.9 
+0.0754
+-
+Endo:
+629 
+-0.8
+0.01 
+-
+
+Random Sets:
+0.10
+0.12588244444444
+0.110
+0.1259910
+0.1252115416
+0.121
+0.1499
+0.1332241241231
+0.1252115416
+0.1256334444
+0.123145512
+0.12143351231
+0.12417729
+0.11825
+0.11627
+0.12504
+0.145656
+0.1544
+0.11467724521
+0.12411324
+0.170126978 (Mid Range)
+0.135839683
+0.1293811
+0.12233
+0.120435
+0.12118333
+0.1332241241231
+0.13772123
+-
+
+AZURE SETS-
+
+Vegance Target:
+Target Sets
+0.143
+0.14314
+0.1433
+0.1435
+0.14341
+0.12544
+
+
+Jump OffSets
+-0.46
+0.09
+0.06
+
+HitPart
+
+HumanoidRootPart
+-
+Vegance AimAssist:
+Prediction
+0.1433
+1.1298
+0.1298
+
+
+Smoothness
+0.073
+0.0655
+0.08234
+-
+Close:
+0.12544
+HumanoidRootPart
+-0.46 offset or 0.06 or 0.09
+SHHHH.LOL SETS-
+
+Vengeance Sil Set:
+0.12567724521
+Vengeance Set:
+0.13189 (Torso) (Airshot Bodypart (Penis)
+0.13237 (Torso) (Airshot bodypart (Penis)
+-
+Zoro Set:
+Turn on smoothing
+Put 0.1992
+Upper torso 
+Airshot head
+60-120 ping shits op
+U gotta trace with it tho
